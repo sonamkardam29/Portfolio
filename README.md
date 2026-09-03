@@ -1,18 +1,89 @@
-# Sonam Kardam — Portfolio
+# 👋 Hi, I'm Sonam Kardam
 
-## Run locally
-Open `index.html` in your browser.
+### 💻 Software Developer | CSE (AI/ML) Student
 
-## Before publishing
-1. Replace `YOUR_EMAIL@gmail.com` with your personal email.
-2. Replace `YOUR_LINKEDIN_URL` with your LinkedIn URL.
-3. Replace the four GitHub links with the exact repository links for each project.
-4. Optionally add your resume as `resume.pdf` and add a Resume button/link.
+I am a Computer Science Engineering student specializing in **Artificial Intelligence and Machine Learning** at **ABES Engineering College**.
 
-## Publish on GitHub Pages
-1. Create a new public GitHub repository named `portfolio`.
-2. Upload `index.html`, `style.css`, and this README.
-3. Open the repository → Settings → Pages.
-4. Under Build and deployment, choose **Deploy from a branch**.
-5. Select `main` and `/ (root)`, then Save.
-6. Wait a few minutes. GitHub will show your live portfolio URL.
+I enjoy building **full-stack web applications, AI-powered solutions, APIs**, and solving **Data Structures & Algorithms** problems.
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 AI-Fake-Review-Scam-Detector
+Web application to detect fake reviews and scam messages with a confidence score.
+
+**Tech Stack:** Node.js, JavaScript
+
+🔗 [View Project](https://github.com/sonamkardam29/AI-Fake-Review-Scam-Detector)
+
+### 🔹 PR Review Agent
+AI-powered agentic system for automated Pull Request code review.
+
+**Tech Stack:** React, FastAPI, GitHub API, Gemini
+
+🔗 [View Project](https://github.com/sonamkardam29/Pr-Review-Agent)
+
+### 🔹 Text-to-Speech Converter
+Dual Text-to-Speech application supporting offline and online speech generation,
+with audio playback and save functionality.
+
+**Tech Stack:** Python, Tkinter, pyttsx3, gTTS
+
+🔗 [View Project](https://github.com/sonamkardam29/Text-To-speech-converter)
+
+---
+
+## 🛠️ Technical Skills
+
+**Languages:** C, C++, Python, JavaScript
+
+**Frontend:** HTML5, CSS3, React.js, Vite, Tailwind CSS
+
+**Backend:** Node.js, Express.js, FastAPI
+
+**Databases:** MongoDB, MySQL, PostgreSQL
+
+**AI/ML:** NumPy, Pandas, Matplotlib, Scikit-learn, LLM APIs
+
+**Tools:** Git, GitHub, VS Code, Postman, Docker
+
+---
+
+## 💼 Experience
+
+**Frontend Development Intern — Pratinik Infotech**
+
+Worked on Frontend development tasks and practical application development.
+
+---
+
+## 📜 Certifications
+
+- Cisco — Introduction to Data Science
+- Cisco — Introduction to Cybersecurity
+- Infosys — Basics of Python
+- Infosys — Prompt Engineering
+- Simplilearn — Machine Learning using Python
+
+---
+
+## 🎯 Interests
+
+- Software Development
+- Full-Stack Web Development
+- Artificial Intelligence & Machine Learning
+- Data Structures & Algorithms
+- Problem Solving
+
+---
+
+## 📫 Connect With Me
+
+- 💻 [GitHub](https://github.com/sonamkardam29)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sonam-kardam-b06615367)
+- 📧 kardamsonam47@gmail.com
+
+---
+
+⭐ Feel free to explore my projects and repositories!
